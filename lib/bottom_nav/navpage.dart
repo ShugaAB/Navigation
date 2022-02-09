@@ -43,7 +43,6 @@ class _BottomBarState extends State<BottomBar> {
           BottomNavigationBarItem(title: Text('Notification'), icon: Icon(Icons.notification_important)),
           BottomNavigationBarItem(title: Text('Search'), icon: Icon(Icons.search)),
           BottomNavigationBarItem(title: Text('Profile'), icon: Icon(Icons.person_outline)),
-
         ]
       ),
     );
